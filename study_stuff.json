@@ -1,0 +1,11 @@
+{
+  "sql" : 2,
+  "R": 2,
+  "Docker": 2,
+  "Fundamentos de computacao: algoritimos clean code": 3,
+  "Hadoop Hive Spark Cassandra": 3,
+  "ML deep learning probabilistic programming": 4,
+  "NumPy OpenCV Pandas Scikit-Learn Matplotlib Scypy": 4,
+  "Python3" : 5,
+  "Estatistica" : 5
+}
